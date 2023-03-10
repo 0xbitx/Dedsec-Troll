@@ -30,7 +30,5 @@ this tool can overload your cpu, ram by redirecting to infinite youtube tab
 ### Contact For Issues 
 * https://discord.gg/pDxJjPHRfs
 
-### DISCLAIMER
-TO BE USED FOR EDUCATIONAL PURPOSES ONLY
-
-The use of the dedsec tool is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+# disclaimer:
+  I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.
