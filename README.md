@@ -1,4 +1,4 @@
-# Dedsec-Troll
+<h1 align="center"> DEDSEC TROLL </h1>
 <img src="banner.png" width="100%"/>
 
 ### This tool can overload your cpu, ram by redirecting to infinite youtube tab
@@ -27,8 +27,6 @@
 * python
 * bash
 
-### Contact For Issues 
-* https://discord.gg/pDxJjPHRfs
+<h1 align="center"> DISCLAIMER </h1>
 
-# disclaimer:
-  I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
