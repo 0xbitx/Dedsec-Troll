@@ -1,8 +1,8 @@
 # Dedsec-Troll
-this tool can overload your cpu, ram by redirecting to infinite youtube tab
+<img src="banner.png" width="100%"/>
 
-![1](https://github.com/0xbitx/Dedsec-Troll/blob/main/banner.png)
-<br>
+### This tool can overload your cpu, ram by redirecting to infinite youtube tab
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ### INSTALLATION
 * git clone https://github.com/0xbitx/Dedsec-Troll.git
