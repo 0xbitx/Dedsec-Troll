@@ -10,19 +10,9 @@ DEDSEC TROLL PAGE is a potentially harmful online activity that can overload CPU
 
 <img src="banner.png" width="100%"/>
 
-### SITE
-    https://0xbitx.github.io/Dedsec-Troll/
+### PAGE:
+### [(CLICK HERE TO ACCESS PAGE)](https://0xbitx.github.io/Dedsec-Troll/)
 
-### INSTALLATION
-* git clone https://github.com/0xbitx/Dedsec-Troll.git
-* cd Dedsec-Troll
-* chmod +x dedsec-troll
-* sudo ./dedsec-troll
-
-### TESTED ON FOLLOWING:-
-* Kali Linux 
-* Parrot OS 
-* Ubuntu
 
 ## Support
 
